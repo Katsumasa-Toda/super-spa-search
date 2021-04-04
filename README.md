@@ -29,7 +29,7 @@ super spa searchとはスーパー銭湯の検索レビューサイトです。
 ## 設計書
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1KbKKYVggwtsb5IEh-G6k9OWQFq7cQHs9bIodvj83Pek/edit#gid=0
 
 ## 開発環境
 - OS：Linux(CentOS)
